@@ -1,1 +1,2 @@
-Exam 2
+Portfolio is linked to Midterm Exam Repository
+
